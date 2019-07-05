@@ -6,6 +6,10 @@ https://github.com/JackSparks/Stock-Tracker-App/blob/master/Screenshots/Dashboar
 
 https://github.com/JackSparks/Stock-Tracker-App/blob/master/Screenshots/Manage%20Screenshot.png
 
+![Dashboard Screenshot](https://user-images.githubusercontent.com/19765747/60742830-e1ffc280-9f3c-11e9-8c19-e868c0a1e4a4.png)
+![Manage Screenshot](https://user-images.githubusercontent.com/19765747/60742831-e2985900-9f3c-11e9-84ca-18c83ed5204a.png)
+
+
 
 # Stocks
 
