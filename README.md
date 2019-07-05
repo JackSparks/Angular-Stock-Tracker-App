@@ -2,10 +2,6 @@ Stock Tracker App:
 Simple Angular app that allows you to add and remove stocks. Once added, the stocks will display the price, and whether the stock price has increased or decreased since its last price. Stock prices are retrieved from:
 https://angular2-in-action-api.herokuapp.com
 
-https://github.com/JackSparks/Stock-Tracker-App/blob/master/Screenshots/Dashboard%20Screenshot.png
-
-https://github.com/JackSparks/Stock-Tracker-App/blob/master/Screenshots/Manage%20Screenshot.png
-
 ![Dashboard Screenshot](https://user-images.githubusercontent.com/19765747/60742830-e1ffc280-9f3c-11e9-8c19-e868c0a1e4a4.png)
 ![Manage Screenshot](https://user-images.githubusercontent.com/19765747/60742831-e2985900-9f3c-11e9-84ca-18c83ed5204a.png)
 
